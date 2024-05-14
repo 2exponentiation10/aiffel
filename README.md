@@ -10,7 +10,9 @@
 저커버그가 1년간의 도전의 결과물인 자비스를 모두에게 소개했습니다.
 
 먼저, 저커버그가 자신의 Facebook 프로필(<https://www.facebook.com/zuck>)에 업로드한 동영상으로 자비스를 만나 볼까요?
-[![OpenAI CEO, CTO on risks and how AI will reshape society](https://www.facebook.com/4/videos/10103351403412491/1.jpg)](https://www.facebook.com/4/videos/10103351403412491/)]
+
+
+![마크 저커버그 동영상](https://www.facebook.com/4/videos/10103351403412491/1.jpg)](https://www.facebook.com/4/videos/10103351403412491/)
 
  
 
