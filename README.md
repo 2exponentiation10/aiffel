@@ -10,7 +10,7 @@
 저커버그가 1년간의 도전의 결과물인 자비스를 모두에게 소개했습니다.
 
 먼저, 저커버그가 자신의 Facebook 프로필(<https://www.facebook.com/zuck>)에 업로드한 동영상으로 자비스를 만나 볼까요?
-
+[![OpenAI CEO, CTO on risks and how AI will reshape society](https://www.facebook.com/4/videos/10103351403412491/1.jpg)](https://www.facebook.com/4/videos/10103351403412491/)]
 
  
 
@@ -121,7 +121,7 @@ GPT-4 발표한 오픈AI '샘 알트만', "AI가 사회를 재구성할 것이�
 SNS 기사보내기페이스북(으)로 기사보내기 트위터(으)로 기사보내기 카카오스토리(으)로 기사보내기 네이버블로그(으)로 기사보내기 URL복사(으)로 기사보내기 이메일(으)로 기사보내기 다른 공유 찾기 기사스크랩하기
 AI가 일자리를 대체할 것인가? 에 대해서 알트만은 이것이 가까운 장래에 일부 일자리를 대체할 가능성이 있으며 얼마나 빨리 일어날 수 있는지 걱정하고 있다고 밝혔다.
 
-[ ![텍스트](https://cdn.aitimes.kr/news/photo/202303/27595_41566_124.jpg) ]
+![텍스트](https://cdn.aitimes.kr/news/photo/202303/27595_41566_124.jpg)
 ###### 오픈AI CEO 샘 알트만(사진:ABC방송 캡처)
 
 대화형 생성 인공지능(Generative AI) 챗GPT(ChatGPT)의 오픈AI CEO 샘 알트만(Sam Altman)는 인공지능 기술이 우리가 알고 있는 사회를 재구성할 것이라며, 실제 위험이 따르지만 우리의 삶을 획기적으로 개선하기 위해 "인류가 지금까지 개발한 가장 위대한 기술"이 될 수도 있다고 믿는다고 17일(현지시간) ABC방송 인터뷰를 통해 밝혔다.
@@ -155,7 +155,7 @@ OpenAI에 따르면 GPT-4는 GPT-3.5보다 허용되지 않는 콘텐츠에 대�
 그는 이에 대해 "인간의 창의성은 무한합니다. 우리는 이를 통해 새로운 직업과 새로운 할 일을 찾을 것입니다" 라고 덧붙였다. (더 자세한 이날 인터뷰 내용을 아래 영상을 참고하면 된다.)
 
 
-![OpenAI CEO, CTO on risks and how AI will reshape society](http://img.youtube.com/vi/watch?v=540vzMlf-54/1.jpg)](https://youtu.be/watch?v=540vzMlf-54)
+[![OpenAI CEO, CTO on risks and how AI will reshape society](http://img.youtube.com/vi/watch?v=540vzMlf-54/1.jpg)](https://youtu.be/watch?v=540vzMlf-54)]
 
 한편, 오픈AI가 14일(현지시간) GPT-4를 전격 공개했다. 고급 추론(reasoning) 기능으로 폭넓은 일반 지식과 문제 해결 능력 덕분에 어려운 문제를 더 정확하게 풀 수 있다. 이를 통해 지난 몇 달 동안 폭발적인 인기를 끌었던 챗GPT(ChatGPT)는 GPT-3.5와 상호작용하는 방식이었으나 이제는 GPT-4와 상호작용하는 방식이 된 것이다.
 
@@ -169,7 +169,7 @@ GPT-4는 월 20달러를 지불하는 유료 서비스인 챗GPT플러스(ChatGP
 
 현재, 인공지능 세계는 영어 사용자가 지배하고 있다. 데이터에서 테스트, 연구 논문에 이르기까지 거의 모든 것이 영어로 되어 있다. 그러나 물론 대규모 언어 모델(LLM)의 기능은 모든 서면 언어에 적용 가능하며, 해당 언어에서 사용할 수 있어야 한다.
 
-[ ![텍스트](https://cdn.aitimes.kr/news/photo/202303/27595_41564_2253.jpg) ]
+![텍스트](https://cdn.aitimes.kr/news/photo/202303/27595_41564_2253.jpg)
 
 ###### 여러 언어에 걸친 MMLU의 GPT-4 3-샷 정확도(Azure Translate를 사용하여 57개 주제에 걸친 14,000개의 객관식 문제 모음인 MMLU 벤치마크를 다양한 언어로 번역. 테스트한 26개 언어 중 24개 언어에서 GPT-4는 라트비아어, 웨일스어, 스와힐리어와 같은 리소스가 적은 언어를 포함하여 GPT-3.5 및 기타 LLM(Chinchilla, PaLM)의 영어 성능을 능가
 
